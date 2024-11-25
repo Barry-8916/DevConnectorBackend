@@ -1,0 +1,6 @@
+@DevConnectorBackend_HostAddress = http://localhost:5070
+
+GET {{DevConnectorBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

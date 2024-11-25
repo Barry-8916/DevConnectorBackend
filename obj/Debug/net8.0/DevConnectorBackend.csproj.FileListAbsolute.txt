@@ -1,0 +1,7 @@
+F:\Project\User-Login\DevConnectorBackend\obj\Debug\net8.0\DevConnectorBackend.csproj.AssemblyReference.cache
+F:\Project\User-Login\DevConnectorBackend\obj\Debug\net8.0\DevConnectorBackend.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\User-Login\DevConnectorBackend\obj\Debug\net8.0\DevConnectorBackend.AssemblyInfoInputs.cache
+F:\Project\User-Login\DevConnectorBackend\obj\Debug\net8.0\DevConnectorBackend.AssemblyInfo.cs
+F:\Project\User-Login\DevConnectorBackend\obj\Debug\net8.0\DevConnectorBackend.csproj.CoreCompileInputs.cache
+F:\Project\User-Login\DevConnectorBackend\obj\Debug\net8.0\DevConnectorBackend.MvcApplicationPartsAssemblyInfo.cs
+F:\Project\User-Login\DevConnectorBackend\obj\Debug\net8.0\DevConnectorBackend.MvcApplicationPartsAssemblyInfo.cache
